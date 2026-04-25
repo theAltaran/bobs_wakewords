@@ -2,6 +2,7 @@
   "type": "micro",
   "wake_word": "hey bob",
   "author": "theAltaran",
+  "trained_languages": ["en"],
   "model": "https://raw.githubusercontent.com/theAltaran/bobs_wakewords/main/hey_bob_wake_word_micro.tflite",
   "version": 2,
   "micro": {
